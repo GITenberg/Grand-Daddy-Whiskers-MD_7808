@@ -1,10 +1,16 @@
 _repo: Grand-Daddy-Whiskers-MD_7808
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Leonard, Nellie Mabel
     gutenberg_agent_id: '2518'
     url: http://www.gutenberg.org/2009/agents/2518
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7808#Grand-Daddy-Whiskers-MD
 gutenberg_issued: '2005-04-01'
 gutenberg_type: Text
 identifiers:
